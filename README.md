@@ -1,4 +1,4 @@
-![MasterHead](https://www.spinutech.com/webres/Image/digital-marketing/articles/data-driven-Blog.png))
+![MasterHead](https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif)
 <h1 align="center">Hi 👋, I'm Yasmine Karaoui</h1>
 <h3 align="center">Computer science engineering student specializing in Business Intelligence|Data Analyst</h3>
 <img align="right" alt="Coding" width="400" src="https://thethinkcloud.co/wp-content/uploads/2020/07/data-presentation.gif">
